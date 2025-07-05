@@ -39,3 +39,61 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio specific
+.vs/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.ncb
+*.sbr
+*.scc
+
+# Build directories
+Debug/
+Release/
+[Bb]uild/
+[Bb]in/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipdb
+*.iobj
+*.rsp
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Ignore backup and temporary files
+*~
+*.swp
+*.bak
+*.tmp
+*.temp
+
+# Ignore by extension
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore folders
+/.vs
+/.vscode
