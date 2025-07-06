@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "Design Pattern
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Heap", "Data Structure\Heap\Heap.vcxproj", "{DA24A51B-B314-4D7E-91B3-52545A4ED94D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperationOverload", "Others\OperationOverload\OperationOverload.vcxproj", "{10298B35-271A-4B78-BC41-9EDC7B940918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{DA24A51B-B314-4D7E-91B3-52545A4ED94D}.Release|x64.Build.0 = Release|x64
 		{DA24A51B-B314-4D7E-91B3-52545A4ED94D}.Release|x86.ActiveCfg = Release|Win32
 		{DA24A51B-B314-4D7E-91B3-52545A4ED94D}.Release|x86.Build.0 = Release|Win32
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Debug|x64.ActiveCfg = Debug|x64
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Debug|x64.Build.0 = Debug|x64
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Debug|x86.ActiveCfg = Debug|Win32
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Debug|x86.Build.0 = Debug|Win32
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Release|x64.ActiveCfg = Release|x64
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Release|x64.Build.0 = Release|x64
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Release|x86.ActiveCfg = Release|Win32
+		{10298B35-271A-4B78-BC41-9EDC7B940918}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
