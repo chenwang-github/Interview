@@ -1,7 +1,15 @@
+/**
+ * @file Main.cpp
+ * @brief Example usage of the MaxHeap class.
+ */
 #include "Heap.h"
 #include <iostream>
 #include <vector>
 
+/**
+ * @brief Entry point for demonstrating the MaxHeap class.
+ * @return int Exit code.
+ */
 int main() {
     std::vector<int> data = {3, 1, 6, 5, 2, 4};
     MaxHeap heap(data);
